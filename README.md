@@ -4,15 +4,6 @@
 
 ---
 
-## 👥 Team Details
-
-- **Team Name:** Team 5 
-- **Team Lead:** Keshav Garg 
-- **Problem Statement:**  
-  > Providing farmers with expert help on demand, especially for crop disease diagnosis, market trends, and government schemes — all in native languages.
-
----
-
 ## 💡 Project Idea
 
 Kisan Mitra empowers farmers with on-demand assistance using modern AI tools like Google Gemini and Vertex AI. It handles:
