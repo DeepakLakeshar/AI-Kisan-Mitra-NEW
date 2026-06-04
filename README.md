@@ -121,11 +121,11 @@ Edge functions	Secure API routing
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-Project Lead: Keshav Garg
+Project Lead: Deepak
 
-Github:- https://github.com/keshavgarg119/AI-Kisan-Mitra
+Github:- https://github.com/DeepakLakeshar/AI-Kisan-Mitra-NEW
 
-Live link:- https://ai-kisan-mitra-udns.vercel.app
+Live link:- https://ai-kisan-mitra-new.vercel.app
 
 ```
 Built with ❤️ by Aura Grow Team for empowering Indian farmers with AI.
